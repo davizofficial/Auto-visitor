@@ -1,7 +1,7 @@
 # Auto Visitor
- Visitor Bot Coded By DavizSec_ID
+ Coded By Daviz Official
  
-## Clone [ Android Only ]
+## Clone [ For Android ]
 ```
 $ pkg install git
 ```
@@ -33,4 +33,4 @@ $ python2 auto-visit.py
 <h1> License </h1>
 <img src="img/wtfpl.png">
 
-<br>Copyright 2020 (c) DavizSec_ID
+<br>Copyright 2020 (c) Public License
