@@ -30,7 +30,5 @@ $ python2 auto-visit.py
 # Screenshots
 <img src="img/android.png">
 <img src="img/computer.png">
-<h1> License </h1>
-<img src="img/wtfpl.png">
 
 <br>Copyright 2020 (c) Public License
